@@ -14,12 +14,11 @@
 
 **Software Engineer II** · Distributed systems, event-driven backends, and applied AI
 
-Java · Spring Boot · Kafka · Elasticsearch · Python · TypeScript
+Java · Spring Boot · Python · TypeScript
 
 [![Website](https://img.shields.io/badge/myles--harris.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://myles-harris.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mylescharris18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mylescharris)
-[![Profile Views](https://komarev.com/ghpvc/?username=myles-harris&style=for-the-badge&color=blueviolet)](https://github.com/myles-harris)
 
 </div>
 
@@ -27,7 +26,7 @@ Java · Spring Boot · Kafka · Elasticsearch · Python · TypeScript
 
 ## About
 
-I build backend systems that stay up under load and the tooling that proves they do.
+I build software with AI.
 
 Most of my production work has been in Java and Spring Boot on Kafka-backed microservices at Dell and Moogsoft: an in-house incident notification service, a JMeter performance platform used to characterize scalability limits, and a Java/Spring Boot version migration across 1,300+ repositories. Before software I was a mechanical design engineer at Northrop Grumman, then wrote safety-critical C++ under DO-178C certification there.
 
@@ -126,10 +125,10 @@ Currently open to backend and AI infrastructure roles.
 <div align="center">
 
 <a href="https://github.com/myles-harris">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=myles-harris&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=midnight-purple&hide_border=true&custom_title=Myles's%20GitHub%20Stats&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="GitHub stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=myles-harris&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=vue&hide_border=true&custom_title=Myles's%20GitHub%20Stats&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="GitHub stats" />
 </a>
 <a href="https://github.com/myles-harris">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=myles-harris&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&custom_title=Most%20Used%20Languages" alt="Top languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=myles-harris&langs_count=8&layout=compact&theme=vue&hide_border=true&custom_title=Most%20Used%20Languages" alt="Top languages" />
 </a>
 
 </div>
@@ -145,10 +144,7 @@ Currently open to backend and AI infrastructure roles.
 <div align="center">
 
 <a href="https://github.com/myles-harris/orbit">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=myles-harris&repo=orbit&theme=midnight-purple&hide_border=true" alt="Orbit" />
-</a>
-<a href="https://github.com/myles-harris/california-culinary-map">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=myles-harris&repo=california-culinary-map&theme=midnight-purple&hide_border=true" alt="California Culinary Map" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=myles-harris&repo=orbit&theme=moltack&hide_border=true" alt="Orbit" />
 </a>
 
 </div>
