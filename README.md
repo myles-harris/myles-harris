@@ -163,7 +163,7 @@ Timeboxed group calls on a configurable cadence. Rebuilt from a shut-down app th
 - **Deploy:** Railway, Prisma with pinned `binaryTargets`, custom domain via Porkbun and Cloudflare
 - **Status:** ~50 daily active users, infra under $50/month, growth almost entirely organic
 
-[![TestFlight Beta](https://img.shields.io/badge/Join_the_Beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/testflight/id899247664)
+[![TestFlight Beta](https://img.shields.io/badge/Join_the_Beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/Vh3vUD4Y)
 
 </details>
 
@@ -209,7 +209,7 @@ Capstone for the IBM RAG and Agentic AI Professional Certificate.
 | --- | --- |
 | **Site** | [myles-harris.com](https://myles-harris.com) |
 | **Email** | [mylescharris18@gmail.com](mailto:mylescharris18@gmail.com) |
-| **Beta** | [Orbit on TestFlight](https://apps.apple.com/us/app/testflight/id899247664) |
+| **Beta** | [Orbit on TestFlight](https://testflight.apple.com/join/Vh3vUD4Y) |
 | **Education** | BS Mechanical Engineering, MS Software Engineering — Mercer University |
 | **Based** | Los Angeles, CA |
 
